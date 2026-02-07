@@ -1,39 +1,30 @@
-**Senior Backend Engineer | Laravel Specialist | Co-Founder**
+# André Glaser
+**Senior Backend Engineer | PHP & Golang Enthusiast | Co-Founder**
 
-Senior developer with a focus on building high-availability, scalable systems. I specialize in bridging the gap between cutting-edge PHP features and mission-critical stability.
+Building mission-critical architectures at scale. I specialize in high-availability systems, real-time processing, and modernizing legacy infrastructures.
 
 ---
 
-### 🛠 Technical Ecosystem
+### 🛠 Tech Stack & Ecosystem
 
-| Category | Technologies & Tools |
+| Category | Technologies |
 | :--- | :--- |
-| **Backend Core** | **PHP 8.x**, **Laravel (Expert)**, Symfony/Doctrine, MySQL |
-| **Modern PHP Stack** | **FrankenPHP** (Worker Mode), **Laravel Reverb** (WebSockets), Redis Queues |
-| **Fullstack / Frontend** | **NextJS**, TypeScript, TailwindCSS |
-| **Infrastructure** | **Kubernetes (K3s/K8s)**, Docker Swarm, GitHub Actions, GitLab CI/CD |
+| **Backend** | **PHP 8.x**, **Laravel (Expert)**, Symfony/Doctrine, MySQL |
+| **Modern Stack** | **FrankenPHP**, **Laravel Reverb** (WebSockets), Redis Queues |
+| **Infrastructure** | **Kubernetes (K8s/K3s)**, Docker Swarm, GitHub & GitLab CI/CD |
+| **Frontend** | **NextJS**, TypeScript, TailwindCSS |
 | **Architecture** | DDD, Event-Driven, Microservices, SOLID, Clean Code |
 
 ---
 
-### 🚀 Scale & Impact
+### 🚀 Impact & Experience
 
-* **RescueOperator (Co-Founder)**
-    * Architected a mission-critical platform gamifying emergency services and dispatching.
-    * Currently managing **millions of requests per month** with a focus on high availability and real-time processing.
-* **gastronovi (Senior Backend Developer)**
-    * Optimized and maintained high-traffic legacy systems handling **several thousand requests per minute**.
-    * Focused on database performance tuning and architectural stability under constant load.
+* **RescueOperator (Co-Founder)**: Architected a mission-critical rescue-management platform. Currently managing **millions of requests/month** with 100% focus on high availability.
+* **gastronovi (Senior Developer)**: Optimized high-traffic legacy backends handling **thousands of requests/minute** under constant load.
+* **Engineering Leadership**: Active in **Code Reviews**, mentoring, and translating complex business requirements into technical roadmaps.
+* **Future Focus**: Scaling backend expertise into **Golang** for high-performance microservices.
 
 ---
 
-### 👥 Engineering & Leadership
-
-* **Mentoring:** Active in conducting in-depth **Code Reviews** and establishing engineering standards to help other devs grow.
-* **Agile Collaboration:** Close alignment with Product Owners to translate complex business requirements into robust technical roadmaps.
-* **Ambition:** Currently expanding my expertise into **Golang** to build next-generation, high-performance products.
-
----
-
-### 📫 Connect with me
+### 📫 Connect
 [**LinkedIn**](https://www.linkedin.com/in/andre-glaser/) | [**Email**](mailto:dev.andreglaser@fastmail.com)
