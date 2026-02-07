@@ -1,4 +1,3 @@
-# André Glaser
 **Senior Backend Engineer | Laravel Specialist | Co-Founder**
 
 Senior developer with a focus on building high-availability, scalable systems. I specialize in bridging the gap between cutting-edge PHP features and mission-critical stability.
