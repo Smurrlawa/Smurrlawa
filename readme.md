@@ -19,10 +19,10 @@ Building mission-critical architectures at scale. I specialize in high-availabil
 
 ### 🚀 Impact & Experience
 
-* **RescueOperator (Co-Founder)**: Architected a mission-critical rescue-management platform. Currently managing **millions of requests/month** with 100% focus on high availability.
-* **gastronovi (Senior Developer)**: Optimized high-traffic legacy backends handling **thousands of requests/minute** under constant load.
+* **RescueOperator (Co-Founder)**: Gamified the dispatcher controlling of emergency services. Currently managing **millions of requests/month** with 100% focus on high availability.
+* **gastronovi (Senior Developer)**: Optimized high-traffic legacy backends handling **thousands of requests/minute** under constant load and migrated legacy to new laravel.
 * **Engineering Leadership**: Active in **Code Reviews**, mentoring, and translating complex business requirements into technical roadmaps.
-* **Future Focus**: Scaling backend expertise into **Golang** for high-performance microservices.
+* **Future Focus**: Scaling backend expertise into **Golang** for high-performance systems.
 
 ---
 
