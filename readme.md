@@ -11,7 +11,7 @@ Building mission-critical architectures at scale. I specialize in high-availabil
 | :--- | :--- |
 | **Backend** | **PHP 8.x**, **Laravel (Expert)**, Symfony/Doctrine, MySQL |
 | **Modern Stack** | **FrankenPHP**, **Laravel Reverb** (WebSockets), Redis Queues |
-| **Infrastructure** | **Kubernetes (K8s/K3s)**, Docker Swarm, GitHub & GitLab CI/CD |
+| **Infrastructure** | Docker Swarm, Kubernetes (K8s/K3s), CI/CD, DevOps |
 | **Frontend** | **NextJS**, TypeScript, TailwindCSS |
 | **Architecture** | DDD, Event-Driven, Microservices, SOLID, Clean Code |
 
